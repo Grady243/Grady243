@@ -1,5 +1,5 @@
-# 💫 About Me:
-👩‍💻I'm a passionate Full-Stack Developer and UI/UX Designer.<br>🌐I love building responsive web applications, interactive user interfaces, and creating smooth digital experiences.<br>⚛️I'm currently learning and improving my React projects while enhancing my UI/UX design skills.<br>⚡I'm looking to collaborate on exciting web development and UI/UX projects, where I can contribute my skills and learn new technologies.
+ # 💫 About Me:
+👩‍💻##I'm a passionate Full-Stack Developer and UI/UX Designer.<br>🌐I love building responsive web applications, interactive user interfaces, and creating smooth digital experiences.<br>⚛️I'm currently learning and improving my React projects while enhancing my UI/UX design skills.<br>⚡I'm looking to collaborate on exciting web development and UI/UX projects, where I can contribute my skills and learn new technologies.
 
 
 ## 🌐 Socials:
